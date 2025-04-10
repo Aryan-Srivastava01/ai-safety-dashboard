@@ -1,6 +1,6 @@
 # AI Safety Dashboard
 
-This is a Frontend Intern assignment project built using **React**, **TypeScript**, and **Vite**. It includes ESLint configuration for clean, type-safe, and maintainable code.
+This is a Frontend Intern assignment project built using React, TypeScript, and Vite. It includes ESLint configuration for clean, type-safe, and maintainable code.
 
 ## 🔗 Live Demo
 
@@ -12,7 +12,6 @@ This is a Frontend Intern assignment project built using **React**, **TypeScript
 - TypeScript
 - Vite
 - ESLint
-- Tailwind CSS (optional if used)
 - Vercel (for deployment)
 
 ## 📦 Getting Started
@@ -26,7 +25,7 @@ cd ai-safety-dashboard
 
 ### 2. Install Dependencies
 
-Make sure you have **Node.js** installed. Then install the project dependencies:
+Make sure you have Node.js installed. Then install the project dependencies:
 
 ```bash
 npm install
@@ -44,7 +43,7 @@ This will start the app on `http://localhost:5173` (or the next available port).
 
 ## 🧹 Linting & Code Quality
 
-This project uses **ESLint** with strict and type-aware rules for TypeScript and React.
+This project uses ESLint with strict and type-aware rules for TypeScript and React.
 
 ### Run Linter
 
@@ -112,7 +111,7 @@ export default tseslint.config({
 
 ## 📤 Deployment
 
-The app is deployed using **Vercel**. To deploy your own version:
+The app is deployed using Vercel. To deploy your own version:
 
 1. Push the project to a GitHub repository.
 2. Connect the repo to [Vercel](https://vercel.com/import).
@@ -123,7 +122,7 @@ The app is deployed using **Vercel**. To deploy your own version:
 
 ## 📞 Contact
 
-**Aryan Srivastava**  
+Aryan Srivastava  
 📧 aryansrivastava.aps@gmail.com  
 📱 +91 7800383043  
 [GitHub](https://github.com/Aryan-Srivastava01)
